@@ -215,4 +215,6 @@ While the current system instructions are highly effective, future work could ex
 - **Integration with Other Cursor Features:** Further explore how generated rules can interact with and optimize other Cursor features, such as Composer.
 - **Expanding the Scope:** Consider how these principles could be applied to other IDEs and code editors, creating a more universal system for AI-assisted code rule management.
 
-This research provides a solid foundation for building advanced AI assistants that can help developers write better code, more efficiently. As AI continues to transform the landscape of software development, tools like this will become increasingly important for maximizing productivity and ensuring code quality.
+This research in no way shape or form is meant to be taken for gospel and should be tested personally to formualte your own opinion. I am still testing and updating, nothing is ever final. If you made it this far and want me to teach you to build out the best possible workflow for your development just reach out. I do these projects on the side and for fun so please keep that in mind. My goal is always to provide resources like these for free and even though I dont think its the perfect solution if it can atleast ignite more research thats enough to make it worth it to me. 
+
+I am grateful, that is all. 
