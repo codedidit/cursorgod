@@ -76,3 +76,7 @@ This AI assistant empowers you to take full control of your Cursor AI experience
 ### Disclaimer
 
 While this AI assistant promotes best practices, it's essential to use your own judgment and adapt the generated rules to your specific project requirements. Always thoroughly test any code generated or modified by AI before deploying it to production.
+
+### Updates
+
+A big update to these system instructions and more cursor tips are coming soon!
